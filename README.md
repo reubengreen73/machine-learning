@@ -12,3 +12,11 @@ The files in this directory are
 - **NYC Bedbugs - using processed data.ipynb** a notebook which attempts to apply do some modelling on the processed data
 - **Bedbug_Reporting.csv** the raw data in csv format
 - **NYC Bedbugs processed.csv** the processed data in csv format
+
+### Room Occupancy
+This project is a replication of the methods in *Machine Learning-based Occupancy Estimation Using Multivariate Sensor Nodes*
+(Singh, Jain, Chaudhari, Garg, in *Communication, Computing, and Networking in Cyber Physical Systems 2018*).
+
+The files in this directory are
+- **room occupancy replication.ipynb** the notebook containing the replication
+- **Occupancy_Estimation.csv** the dataset used, in csv format
