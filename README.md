@@ -20,3 +20,11 @@ This project is a replication of the methods in *Machine Learning-based Occupanc
 The files in this directory are
 - **room occupancy replication.ipynb** the notebook containing the replication
 - **Occupancy_Estimation.csv** the dataset used, in csv format
+
+### Tetuan Power Consumption
+This project is my take on the work done in *Comparison of Machine Learning Algorithms for the Power Consumption Prediction: Case Study of Tetouan
+city* (Salam and El Hibaoui 2018, in *2018 6th International Renewable and Sustainable Energy Conference*).
+
+The files in this directory are
+- **power consumption.ipynb** the notebook containing the calculations
+- **Tetuan City power consumption.csv** the dataset used, in csv format
